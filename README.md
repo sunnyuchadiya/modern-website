@@ -1,8 +1,26 @@
-# React + Vite
+# Project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React web app built with Vite and Tailwind CSS. Features animated page transitions, fullscreen animated navigation, video backgrounds, and dynamic sections for Home, Projects, and Agency. Ideal for creative portfolios or agencies. Uses GSAP for animations and React Router for navigation.
 
-Currently, two official plugins are available:
+## Features
+- Animated page transitions
+- Fullscreen animated navigation menu
+- Video backgrounds
+- Dynamic Home, Projects, and Agency sections
+- Responsive design with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/sunnyuchadiya/modern-website-vite.git
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm run dev
+   ```
+
